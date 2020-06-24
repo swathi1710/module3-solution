@@ -1,0 +1,56 @@
+body{
+    font-size: 16px;
+    color:black;
+    background-color:burlywood;
+    font-family: 'Oxygen', sans-serif;
+    margin: 0;
+}
+#header-nav{
+    background-color: grey;
+    padding: 0;
+    border: 0;
+    border-radius: 0;;
+}
+#logo-img{
+    background: url(images/download.png) no-repeat;
+    width: 200px;
+    height: 200px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+}
+h1{
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+}
+h2{
+    font-weight: bold;
+    font-family: cursive;  
+}
+.navbar-brand{
+    color:black;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.heading{
+    text-align: center;
+    }
+.heading-text{
+    position: center;
+
+
+}
+.container-div{
+    font-family: cursive;
+    border: 1px solid black;
+    padding: 0;
+    margin: 2rem;
+    background-color: gray;
+}
+.nav-link{
+    color:black;
+    font-weight: bold;
+    font-family: cursive; 
+}
